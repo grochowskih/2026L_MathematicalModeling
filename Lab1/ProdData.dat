@@ -1,0 +1,15 @@
+param:	szlif	wiercenie	technicy	zysk :=
+	1	12		10			20			550
+	2	20		8			20			600
+	3	0		16			20			350
+	4	25		0			20			400
+	5	15		0			20			200;
+
+
+set maszyny := 1 2;
+param ogrMaszyny := 1 3 2 2;
+param lTech := 8 ;
+param dni := 6;
+param godz := 8;
+
+	
