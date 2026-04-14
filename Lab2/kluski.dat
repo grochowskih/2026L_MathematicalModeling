@@ -1,0 +1,11 @@
+set pastas := kluski cappelini fettucine;
+set resources := flour eggs;
+
+param cost := kluski 0.6 cappelini 0.6 fettucine 0.3;
+param limitIng := flour 120 eggs 150;
+param ing:		flour	eggs :=
+	kluski		0.5		0.2
+	cappelini	0.4		0.4
+	fettucine	0.3		0.6;
+	
+param minProd := kluski 50 cappelini 100 fettucine 150;
