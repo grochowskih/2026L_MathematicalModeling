@@ -24,6 +24,16 @@ W ramach przedmiotu prowadzone są:
     <td>Lab</td>
     <td>Wprowadzenie do AMPL i składni. Podstawowe modele programowania liniowego.</td>
   </tr>
+  <tr>
+    <td rowspan="1">14.04</td>
+    <td>Lab</td>
+    <td>Wprowadzenie do programowania całkowitoliczbowego. Modele produkcyjne. Produkcja wielokrotnościowa.</td>
+  </tr>
+  <tr>
+    <td rowspan="1">21.04</td>
+    <td>Lab</td>
+    <td>Wprowadzenie do programowania binarnego. Modelowanie spójników logicznych. Łamanie funkcji skrótu. Kolorowanie grafów.</td>
+  </tr>
 </tbody></table>
 
 ## Punktacja - opis skrócony
