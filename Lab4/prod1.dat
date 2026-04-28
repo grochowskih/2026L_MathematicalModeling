@@ -1,0 +1,4 @@
+set days := 1 2;
+param maxPerDay := 20;
+
+param orders := 1 14 2 22;

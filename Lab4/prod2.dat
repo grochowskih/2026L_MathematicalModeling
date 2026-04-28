@@ -1,0 +1,7 @@
+set products := 1 2 3;
+param: time	weight :=
+	1	3	4.5
+	2	3	2
+	3	2	1;
+	
+param maxTime := 8;
