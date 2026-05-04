@@ -34,6 +34,16 @@ W ramach przedmiotu prowadzone są:
     <td>Lab</td>
     <td>Wprowadzenie do programowania binarnego. Modelowanie spójników logicznych. Łamanie funkcji skrótu. Kolorowanie grafów.</td>
   </tr>
+  <tr>
+    <td rowspan="1">28.04</td>
+    <td>Lab</td>
+    <td>Równanie bilansu w zagadnieniu produkcyjnym. Zastosowanie zmiennych binarnych w modelach produkcyjnych. Metoda dużego M.</td>
+  </tr>
+  <tr>
+    <td rowspan="1">05.05</td>
+    <td>Lab</td>
+    <td>Godziny dziekańskie (projekt zaliczeniowy przekazany na MS Teams 04.05)</td>
+  </tr>
 </tbody></table>
 
 ## Punktacja - opis skrócony
@@ -41,4 +51,4 @@ W ramach przedmiotu prowadzone są:
 Szczegłowy regulamin dostępny jest na stronie przedmiotu w USOS. Do uzyskania z tercji optymalizacyjnej łącznie jest 50 punktów w następujący sposób:
 - Aktywność na zajęciach (4 punkty, możliwe do zdobycia jest po 1 punkcie na każdych z pierwszych czterech labach),
 - Praca domowa (6 punktów, opublikowana po Lab 4),
-- Laboratorium zaliczeniowe (40 punktów, Lab 5).
+- Laboratorium zaliczeniowe (40 punktów, Lab 5, z powodu godzin dziekańskich przyjmuje po uzgodnieniach formę projektu zaliczeniowego).
